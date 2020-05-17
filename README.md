@@ -46,6 +46,7 @@ Para evitar que possíveis candidatos enviem cvs para vagas já preenchidas, dê
 - [Vagas para desenvolvedores Back-end (Angola)](https://github.com/backend-ao/vagas)
 - [Vagas para desenvolvedores Front-end (Portugal)](https://github.com/frontend-pt/vagas)
 - [Vagas para desenvolvedores Back-end (Portugal)](https://github.com/backend-pt/vagas)
+- [Vagas para desenvolvedores Rust](https://github.com/rustdevbr/vagas)
 
 ## Licença
 
