@@ -27,6 +27,7 @@ Você pode receber atualizações das vagas no seu email ou via notificações d
 Para evitar que possíveis candidatos enviem cvs para vagas já preenchidas, dê manutenção à sua issue, a cada 14 dias (2 semanas) coloque um comentário que continua procurando para a vaga ou feche a mesma comentando se a pessoa foi contratada através do nosso grupo ou por fora. Caso a issue passe de 14 dias e não tiver manutenção, a mesma será fechada por um moderador do repositório.
 
 ### Outros repositórios de vagas
+
 #### Por área
 
 - [Vagas para desenvolvedores Back-End](https://github.com/backend-br/vagas)
@@ -36,25 +37,31 @@ Para evitar que possíveis candidatos enviem cvs para vagas já preenchidas, dê
 
 #### Por tecnologia
 
-- [Vagas para desenvolvedores Android](https://github.com/androiddevbr/vagas)
-- [Vagas para desenvolvedores iOS e OSX](https://github.com/CocoaHeadsBrasil/vagas)
-- [Vagas para desenvolvedores PHP](https://github.com/phpdevbr/vagas)
-- [Vagas para desenvolvedores Python](https://pyjobs.com.br)
-- [Vagas para desenvolvedores Vue.js](https://github.com/vuejs-br/vagas)
-- [Vagas para desenvolvedores Go/Golang](https://github.com/Gommunity/vagas)
+- [Vagas para desenvolvedores Android](https://github.com/androiddevbr/vagas)	- [Vagas para desenvolvedores Android](https://github.com/androiddevbr/vagas)
+- [Vagas para desenvolvedores no Ceará](https://github.com/CangaceirosDevels/vagas_de_emprego)	
+- [Vagas para desenvolvedores iOS e OSX](https://github.com/CocoaHeadsBrasil/vagas)	- [Vagas para desenvolvedores iOS e OSX](https://github.com/CocoaHeadsBrasil/vagas)
+- [Vagas para desenvolvedores PHP](https://github.com/phpdevbr/vagas)	- [Vagas para desenvolvedores PHP](https://github.com/phpdevbr/vagas)
+- [Vagas para desenvolvedores React e React Native](https://github.com/react-brasil/vagas)	- [Vagas para desenvolvedores Python](https://pyjobs.com.br)
+- [Vagas para desenvolvedores Vue.js](https://github.com/vuejs-br/vagas)	- [Vagas para desenvolvedores Vue.js](https://github.com/vuejs-br/vagas)
+- [Vagas para desenvolvedores Go/Golang](https://github.com/Gommunity/vagas)	- [Vagas para desenvolvedores Go/Golang](https://github.com/Gommunity/vagas)
+- [Vagas para desenvolvedores Flutter/Dart](https://github.com/flutter-brazil/vagas)	- [Vagas para Flutter](https://github.com/flutter-brazil/vagas)
+- [Vagas para UI/UX](https://github.com/uxbrasil/vagas)	- [Vagas para React/React Native](https://github.com/react-brasil/vagas)
+- [Vagas para desenvolvedores .NET](https://github.com/dotnetdevbr/vagas)
 - [Vagas para desenvolvedores Rust](https://github.com/rustdevbr/vagas)
 
 #### Por localidade
 
 - [Vagas para desenvolvedores no Ceará](https://github.com/CangaceirosDevels/vagas_de_emprego)
-- [Vagas para desenvolvedores Front-end (Angola)](https://github.com/frontend-ao/vagas)
-- [Vagas para desenvolvedores Back-end (Angola)](https://github.com/backend-ao/vagas)
-- [Vagas para desenvolvedores Front-end (Portugal)](https://github.com/frontend-pt/vagas)
-- [Vagas para desenvolvedores Back-end (Portugal)](https://github.com/backend-pt/vagas)
+- [Vagas para desenvolvedores Front-end (Angola)](https://github.com/frontend-ao/vagas)	- [Vagas para desenvolvedores Front-end (Angola)](https://github.com/frontend-ao/vagas)
+- [Vagas para desenvolvedores Back-end (Angola)](https://github.com/backend-ao/vagas)	- [Vagas para desenvolvedores Back-end (Angola)](https://github.com/backend-ao/vagas)
+- [Vagas para desenvolvedores Front-end (Portugal)](https://github.com/frontend-pt/vagas)	- [Vagas para desenvolvedores Front-end (Portugal)](https://github.com/frontend-pt/vagas)
+- [Vagas para desenvolvedores Back-end (Portugal)](https://github.com/backend-pt/vagas)	- [Vagas para desenvolvedores Back-end (Portugal)](https://github.com/backend-pt/vagas)
+- [Vagas para QAs](https://github.com/qa-brasil/vagas)	
 
 #### Por empresa
 
 - [Vagas para desenvolvedores Stone Pagamentos](https://github.com/stone-pagamentos/vagas)
+
 ## Licença
 
 [MIT](/LICENSE) &copy; DotNetDevBR
