@@ -7,7 +7,7 @@ title: "[Cidade] Back-end Developer DotNet @ Nome da Empresa"
 
 <!-- 
 ==================================================
-POR FAVOR, SÓ POSTE SE A VAGA FOR PARA BACK-END DOTNET!
+POR FAVOR, SÓ POSTE SE A VAGA FOR PARA BACK-END DOTNET OU FULLSTACK COM DOTNET NO BACK-END!
 
 Não faça distinção de gênero no título da vaga.
 
