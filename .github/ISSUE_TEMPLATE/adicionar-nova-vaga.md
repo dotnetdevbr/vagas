@@ -11,8 +11,7 @@ POR FAVOR, SÓ POSTE SE A VAGA FOR PARA BACK-END DOTNET!
 
 Não faça distinção de gênero no título da vaga.
 
-Use: "Back-End DotNet Developer" ao invés de 
-"Desenvolvedor Back-End" \o/
+Use: "Back-End DotNet Developer" ao invés de "Desenvolvedor Back-End" \o/
 
 Exemplo: `[São Paulo] Back-End Developer DotNet @ NOME DA EMPRESA`
 ==================================================
@@ -24,7 +23,7 @@ Exemplo: Aqui na Corporação ACME somos líderes em...
 
 ## Descrição da vaga
 
-Exemplo: Projeto bazinga em NodeJS, etc.
+Exemplo: Projeto XPTO em C# Core, SignalR, API REST, RabbitMQ, etc.
 
 ## Local
 
@@ -33,18 +32,18 @@ Exemplo: Remoto ou Escritório, São Paulo - Vila Olímpia
 ## Requisitos
 
 **Obrigatórios:**
-- 3 anos de experiência com Node
-- 2 anos de experiência com mongodb e express
+- 3 anos de experiência com C# (Framework, Core ou ambos)
+- 2 anos de experiência com SQL Server e Elastic Search
 
 **Desejáveis:**
-- conhecimentos em ruby on rails
-- conhecimentos em C#
+- conhecimentos em Apache Kafka ou Rabbit MQ
+- conhecimentos em Redis e MongoDB
 
 **Diferenciais:**
 - projetos opensource
+- conhecimento de PHP e Laravel ou Java e SpringBoot
 
 ## Benefícios
-
 - Plano de saúde
 - Seguro de vida
 - VR de R$ X/dia
@@ -64,7 +63,7 @@ PJ a combinar
 
 ## Como se candidatar
 
-Por favor envie um email para email@email.com.br com seu CV anexado - enviar no assunto: Vaga NodeJS
+Por favor envie um email para email@email.com.br com seu CV anexado - enviar no assunto: Vaga DotNet
 
 ## Tempo médio de feedbacks
 
@@ -77,6 +76,7 @@ E-mail para contato em caso de não haver resposta: feedbacks@empresasuperlegal.
 #### Alocação
 - Alocado
 - Remoto
+- HomeOfficeCovid19
 
 #### Regime
 - CLT
