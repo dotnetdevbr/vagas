@@ -90,4 +90,7 @@ E-mail para contato em caso de não haver resposta: feedbacks@empresasuperlegal.
 - Sênior
 - Especialista
 
-
+#### Período
+- Full time
+- Part time
+- Projeto
