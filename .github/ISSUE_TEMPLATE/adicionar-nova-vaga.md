@@ -1,7 +1,7 @@
 ---
 name: Adicionar nova vaga
 about: Não esqueça de seguir todas as instruções do template antes de abrir a vaga.
-title: "[Cidade] Back-end Developer DotNet @ Nome da Empresa"
+title: "[Cidade ou Remoto] Back-end Developer DotNet @ Nome da Empresa"
 
 ---
 
