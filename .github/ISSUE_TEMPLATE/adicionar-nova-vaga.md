@@ -76,7 +76,9 @@ E-mail para contato em caso de não haver resposta: feedbacks@empresasuperlegal.
 #### Alocação
 - Alocado
 - Remoto
-- HomeOfficeCovid19
+- Presencial
+- Híbrido
+- HomeOFficeCovid19
 
 #### Regime
 - CLT
