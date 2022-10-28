@@ -64,6 +64,7 @@ PJ a combinar
 ## Como se candidatar
 
 Por favor envie um email para email@email.com.br com seu CV anexado - enviar no assunto: Vaga DotNet
+OU acesse nosso site em https://empresasuperlegal.com.br/oportunidades/cadastro
 
 ## Tempo médio de feedbacks
 
@@ -71,14 +72,13 @@ Costumamos enviar feedbacks em até XX dias após cada processo.
 E-mail para contato em caso de não haver resposta: feedbacks@empresasuperlegal.com.br
 
 ## Labels
-<!-- retire os labels que não fazem sentido à vaga -->
+<!-- retire os labels que não fazem sentido à vaga, pode deixar quantas quiser em cada grupo sem problemas -->
 
 #### Alocação
 - Alocado
 - Remoto
 - Presencial
 - Híbrido
-- HomeOFficeCovid19
 
 #### Regime
 - CLT
