@@ -6,7 +6,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Renato66/auto-label@v2
+      - uses: Renato66/auto-label@v2.2.0
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           labels-not-allowed: '["Falta Informações","Request changes","stale"]'
+          labels-synonyms: '{"pleno":["mid", "middle", "plain"],"remoto":["remote", "home-office", "home"], "hibrido":["hybrid"], "presencial":["office"], "contrato":["clt"], "rv":["pj","cooperado"]}'
