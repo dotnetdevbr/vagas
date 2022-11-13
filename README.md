@@ -39,7 +39,7 @@ Para evitar que possíveis candidatos enviem cvs para vagas já preenchidas, dê
 - [Vagas para desenvolvedores Android](https://github.com/androiddevbr/vagas)
 - [Vagas para desenvolvedores iOS e OSX](https://github.com/CocoaHeadsBrasil/vagas)
 - [Vagas para desenvolvedores PHP](https://github.com/phpdevbr/vagas)
-- [Vagas para desenvolvedores Python](https://pyjobs.com.br)
+- [Vagas para desenvolvedores Python](https://github.com/pydevbr/vagas)
 - [Vagas para desenvolvedores Vue.js](https://github.com/vuejs-br/vagas)
 - [Vagas para desenvolvedores Go/Golang](https://github.com/Gommunity/vagas)
 - [Vagas para Flutter](https://github.com/flutter-brazil/vagas)
