@@ -167,5 +167,5 @@ body:
         - 10k - 15k
         - 15k - 20k
         - 20k+
-      validations:
-        required: false
+    validation:
+      required: false
