@@ -100,7 +100,7 @@ body:
 
   - type: input
     validations:
-      required: true
+      required: false
     attributes:
       label: Keywords
       placeholder: nestjs mysql
