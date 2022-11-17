@@ -161,11 +161,10 @@ body:
     attributes:
       label: Remuneração
       options:
-        - Não informado
-        - 1k - 5k
-        - 5k - 10k
-        - 10k - 15k
-        - 15k - 20k
-        - 20k+
+        - R$ 1k - R$ 5k
+        - R$ 5k - R$ 10k
+        - R$ 10k - R$ 15k
+        - R$ 15k - R$ 20k
+        - R$ 20k+
     validations:
       required: false
