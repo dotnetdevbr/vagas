@@ -130,6 +130,8 @@ body:
           required: false
         - label: PJ
           required: false
+        - label: Cooperado
+          required: false
 
   - type: checkboxes
     attributes:
@@ -154,3 +156,16 @@ body:
           required: false
         - label: Projeto
           required: false
+          
+   - type: dropdown
+     attributes:
+       label: Remuneração
+       options:
+        - Não informado
+        - 1k - 5k
+        - 5k - 10k
+        - 10k - 15k
+        - 15k - 20k
+        - 20k+
+       validations:
+        required: false
