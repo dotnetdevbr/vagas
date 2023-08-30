@@ -7,13 +7,13 @@ title: "[Cidade ou Remoto] Back-end Developer DotNet @ Nome da Empresa"
 
 <!-- 
 ==================================================
-POR FAVOR, SÓ POSTE SE A VAGA FOR PARA BACK-END DOTNET OU FULLSTACK COM DOTNET NO BACK-END!
+POR FAVOR, SÓ POSTE SE A VAGA FOR PARA BACK-END .NET OU FULLSTACK COM .NET NO BACK-END!
 
 Não faça distinção de gênero no título da vaga.
 
-Use: "Back-End DotNet Developer" ao invés de "Desenvolvedor Back-End" \o/
+Use: "Back-End  .NET Developer" ao invés de "Desenvolvedor Back-End" \o/
 
-Exemplo: `[São Paulo] Back-End Developer DotNet @ NOME DA EMPRESA`
+Exemplo: `[São Paulo] Back-End Developer .NET @ NOME DA EMPRESA`
 ==================================================
 -->
 
