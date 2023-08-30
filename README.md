@@ -46,6 +46,7 @@ Para evitar que possíveis candidatos enviem cvs para vagas já preenchidas, dê
 - [Vagas para React/React Native](https://github.com/react-brasil/vagas)
 - [Vagas para desenvolvedores .NET](https://github.com/dotnetdevbr/vagas)
 - [Vagas para desenvolvedores Rust](https://github.com/rustdevbr/vagas)
+- [Vagas para desenvolvedores Node.JS](https://github.com/nodejsdevbr/vagas)
 
 #### Por localidade
 
