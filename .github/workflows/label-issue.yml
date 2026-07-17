@@ -11,11 +11,11 @@ jobs:
     
     steps:
 
-      - uses: actions/checkout@v7
+      - uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7
         with:
           sparse-checkout: |
             .github/workflows/auto-label.json5
 
-      - uses: Renato66/auto-label@v3
+      - uses: Renato66/auto-label@f6a6e622dd6cab2171b38f4dd4616c1bf65a65dd # v3
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
